@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001/products";
+const BASE_URL = "https://alurageek-wduz.onrender.com/products";
 
 const productList = async () => {
   try {
